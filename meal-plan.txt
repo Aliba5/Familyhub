@@ -1,3 +1,5 @@
 Monday : pasta 
 Tuesday : couscous
 Wednesday : Barbeque
+thursday : tacos
+Friday : Pizza
